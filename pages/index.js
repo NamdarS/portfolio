@@ -113,7 +113,7 @@ export default function Home() {
   );
 
   return (
-    <div>
+    <div className='page'>
       <Head>
         <title>Namdar Sadiq</title>
         <link rel="icon" href="/favicon.ico" />
