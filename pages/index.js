@@ -112,6 +112,18 @@ export default function Home() {
     </p>
   );
 
+  const projectsText8 = (
+    <p>
+      <span>
+        <a style={{ color: '#ff2467' }} href="https://lait.vercel.app/">
+          Lait
+        </a>
+      </span>{' '}
+      — Natural language to LaTeX with OCR support and real time editing and
+      rendering
+    </p>
+  );
+
   return (
     <div className="page">
       <Head>
@@ -128,7 +140,8 @@ export default function Home() {
           <TextSection title={interestsTitle} text={interestsText} />
         </div>
         <div className="spacer">
-          <TextSection title={projectsTitle} text={projectsText1} />
+          <TextSection title={projectsTitle} text={projectsText8} />
+          <TextSection text={projectsText1} />
           <TextSection text={projectsText2} />
           <TextSection text={projectsText3} />
           <TextSection text={projectsText4} />
