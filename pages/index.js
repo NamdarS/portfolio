@@ -19,7 +19,7 @@ export default function Home() {
       <span>
         <a
           style={{ color: '#ff2467' }}
-          href="https://github.com/NamdarS/cl-maker"
+          href="https://cover-letter-gen.vercel.app/"
         >
           Cover Letter Gen
         </a>
