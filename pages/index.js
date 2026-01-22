@@ -31,7 +31,7 @@ export default function Home() {
   const projectsText2 = (
     <p>
       <span>
-        <a style={{ color: '#ff2467' }} href="https://www.glitchzuki.com/">
+        <a style={{ color: '#ff2467' }} href="https://gluri-bpfijm71v-namdars.vercel.app/">
           GlitchZuki
         </a>
       </span>{' '}
