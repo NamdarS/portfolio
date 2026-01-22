@@ -14,7 +14,7 @@ export default function Home() {
 
   const projectsTitle = 'Projects';
 
-  const projectsText1 = (
+  const projectsText2 = (
     <p>
       <span>
         <a
@@ -28,7 +28,7 @@ export default function Home() {
     </p>
   );
 
-  const projectsText2 = (
+  const projectsText1 = (
     <p>
       <span>
         <a style={{ color: '#ff2467' }} href="https://gluri-bpfijm71v-namdars.vercel.app/">
