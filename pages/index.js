@@ -35,7 +35,7 @@ export default function Home() {
           GlitchZuki
         </a>
       </span>{' '}
-      — fullstack NFT DApp for the GlitchZuki token using the ERC-721A interface
+      — NFT DApp for the GlitchZuki token using the ERC-721A interface
     </p>
   );
 
